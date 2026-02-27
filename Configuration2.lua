@@ -1,19 +1,6 @@
 local API = {};
 
-local ChatModeration = {
-    ["10476349025"] = {
-        LastReason = "cooldown bypass",
-        LastUpdated = 1772194408,
-        MutedUntil = 1772194708,
-        Strikes = 1
-    },
-    ["8996412029"] = {
-        LastReason = "cooldown bypass",
-        LastUpdated = 1772201121,
-        MutedUntil = 1772201421,
-        Strikes = 1
-    }
-};
+local ChatModeration = {};
 
 function API:GetChatModeration()
     return ChatModeration;
