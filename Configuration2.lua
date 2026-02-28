@@ -1,6 +1,13 @@
 local API = {};
 
-local ChatModeration = {};
+local ChatModeration = {
+    ["9432475747"] = {
+        LastReason = "blacklist bypass attempt",
+        LastUpdated = 1772321194,
+        MutedUntil = 1772321494,
+        Strikes = 1
+    }
+};
 
 function API:GetChatModeration()
     return ChatModeration;
