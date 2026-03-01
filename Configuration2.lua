@@ -8,10 +8,10 @@ local ChatModeration = {
         Strikes = 1
     },
     ["8775533108"] = {
-        LastReason = "blacklist bypass attempt",
-        LastUpdated = 1772352640,
-        MutedUntil = 1772352940,
-        Strikes = 1
+        LastReason = "sending during mute",
+        LastUpdated = 1772352661,
+        MutedUntil = 1772356261,
+        Strikes = 3
     },
     ["9432475747"] = {
         LastReason = "blacklist bypass attempt",
