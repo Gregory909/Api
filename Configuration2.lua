@@ -12,6 +12,12 @@ local ChatModeration = {
         LastUpdated = 1772459330,
         MutedUntil = 1772459630,
         Strikes = 1
+    },
+    ["9654100719"] = {
+        LastReason = "cooldown bypass",
+        LastUpdated = 1772760147,
+        MutedUntil = 1772760447,
+        Strikes = 1
     }
 };
 
