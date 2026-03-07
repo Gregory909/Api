@@ -2,10 +2,10 @@ local API = {};
 
 local ChatModeration = {
     ["3828191940"] = {
-        LastReason = "blacklist bypass attempt",
-        LastUpdated = 1772869284,
+        LastReason = "strike decay",
+        LastUpdated = 1772883108,
         MutedUntil = 1772869584,
-        Strikes = 1
+        Strikes = 0
     }
 };
 
