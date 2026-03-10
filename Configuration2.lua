@@ -1,6 +1,13 @@
 local API = {};
 
-local ChatModeration = {};
+local ChatModeration = {
+    ["10649241569"] = {
+        LastReason = "spam burst (8/5s)",
+        LastUpdated = 1773136899,
+        MutedUntil = 1773137199,
+        Strikes = 1
+    }
+};
 
 function API:GetChatModeration()
     return ChatModeration;
