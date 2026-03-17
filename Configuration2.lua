@@ -1,6 +1,12 @@
 local API = {};
 
 local ChatModeration = {
+    ["10444664496"] = {
+        LastReason = "spam burst (8/5s)",
+        LastUpdated = 1773775588,
+        MutedUntil = 1773775888,
+        Strikes = 1
+    },
     ["10649241569"] = {
         LastReason = "spam burst (8/5s)",
         LastUpdated = 1773136899,
