@@ -24,6 +24,12 @@ local ChatModeration = {
         LastUpdated = 1773712227,
         MutedUntil = 1773712527,
         Strikes = 1
+    },
+    ["9974435790"] = {
+        LastReason = "webhook rejected message",
+        LastUpdated = 1774170086,
+        MutedUntil = 1774170386,
+        Strikes = 1
     }
 };
 
