@@ -3,6 +3,7 @@ local HardBans = {"1293792120","1993687031","604430770","1222680","6225378520","
 local IPBans = {};
 local Warnings = {
     ["3441475358"] = {Reason = "N words in chat", Moderator = "gregory909"},
+	["9369031328"] = {Reason = "N words in chat", Moderator = "gregory909"},
 };
 function API:GetHardBans()
 	return HardBans;
