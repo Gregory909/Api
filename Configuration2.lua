@@ -2,10 +2,10 @@ local API = {};
 
 local ChatModeration = {
     ["3425034708"] = {
-        LastReason = "webhook rejected message",
-        LastUpdated = 1775489481,
+        LastReason = "strike decay",
+        LastUpdated = 1775491075,
         MutedUntil = 1775489781,
-        Strikes = 1
+        Strikes = 0
     }
 };
 
