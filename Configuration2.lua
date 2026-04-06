@@ -1,6 +1,13 @@
 local API = {};
 
-local ChatModeration = {};
+local ChatModeration = {
+    ["3425034708"] = {
+        LastReason = "webhook rejected message",
+        LastUpdated = 1775489481,
+        MutedUntil = 1775489781,
+        Strikes = 1
+    }
+};
 
 function API:GetChatModeration()
     return ChatModeration;
