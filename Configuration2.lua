@@ -7,6 +7,12 @@ local ChatModeration = {
         MutedUntil = 1775489781,
         Strikes = 0
     },
+    ["8032597496"] = {
+        LastReason = "cooldown bypass",
+        LastUpdated = 1776161403,
+        MutedUntil = 1776161703,
+        Strikes = 1
+    },
     ["8458659751"] = {
         LastReason = "strike decay",
         LastUpdated = 1776006177,
