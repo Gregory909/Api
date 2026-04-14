@@ -9,7 +9,7 @@ local ChatModeration = {
     },
     ["8032597496"] = {
         LastReason = "strike decay",
-        LastUpdated = 1776162652,
+        LastUpdated = 1776162750,
         MutedUntil = 1776161703,
         Strikes = 0
     },
